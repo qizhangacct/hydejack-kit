@@ -88,7 +88,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/blurred.jpg
+accent_image:          /assets/img/doc/blurred.jpg
 accent_color:          rgb(65,7,7)
 
 # This is used for the `theme-color` meta tag,
